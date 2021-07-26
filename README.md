@@ -4,13 +4,13 @@
 
 ## Usage
 
-Use [this](https://github.com/aryanpal0pqq/portfolio) repository to create HTML/CSS Portfolio that is properly designed, attractive and informative. 
+Use [this](https://github.com/Aaryanpal/portfolio) repository to create HTML/CSS Portfolio that is properly designed, attractive and informative. 
 
-Clone [this](https://github.com/aryanpal0pqq/portfolio) repository and and edit `index.html` to get your own portfolio.
+Clone [this](https://github.com/Aaryanpal/portfolio) repository and and edit `index.html` to get your own portfolio.
 
 ```bash
 
-git clone https://github.com/aryanpal0pqq/portfolio 
+git clone https://github.com/Aaryanpal/portfolio
 open index.html
 
 ```
@@ -35,7 +35,7 @@ open index.html
 ```
 
 
-***Glad to see you here! Show some love by [starring](https://github.com/aryanpal0pqq/portfolio) this repo.***
+***Glad to see you here! Show some love by [starring](https://github.com/Aaryanpal/portfolio) this repo.***
 
 -----
 

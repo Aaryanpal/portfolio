@@ -35,7 +35,7 @@ open index.html
 ```
 
 
-***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/portfolio/) this repo.***
+***Glad to see you here! Show some love by [starring](https://github.com/aryanpal0pqq/portfolio) this repo.***
 
 -----
 

@@ -1,6 +1,6 @@
 # Beginner Friendly Portfolio
 
-#### Sometimes, creating an attractive portfolio is essential. Here's an eye-catching coded Portfolio [example]( https://iaryan.me/) to realize that the can be eye-catching, elegant and recognizable.
+#### Sometimes, creating an attractive portfolio is essential. Here's an eye-catching coded Portfolio [example]( https://aaryanpal.github.io/portfolio/) to realize that the can be eye-catching, elegant and recognizable.
 
 ## Usage
 

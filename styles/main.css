@@ -6,7 +6,7 @@
 }
 
 body{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', serif;
     margin: 0px;
 }
 hr{
@@ -56,6 +56,7 @@ hr{
 }
 .navigation .nav-pills{
     text-align: right;
+    font-size: 18px;
 } 
 .navigation .link{
     color: white;
@@ -79,7 +80,7 @@ hr{
 
 .hero .hero-img {
     max-width: 80%;
-    width: 350px;
+    width: 450px;
     display: block;
     margin: auto;
 }
@@ -124,4 +125,38 @@ hr{
 }
 .footer ul{
     padding-inline-start: 0px;
+}
+
+
+/* project-section */
+.project-container{
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.project-section{
+    margin: 2rem 0rem;
+}
+
+.project-div{
+    box-sizing: border-box;
+    background-color: var(--offwhite-color);
+    padding: 1rem;
+    border-radius: 10px;
+}
+.project-div p{
+    margin-top: 0.5rem;
+}
+
+.project-section h1{
+    margin-bottom: 0.2rem;
+}
+
+.project-section p{
+    text-align: justify;
+}
+
+.icon{
+    font-size: 35px;
 }
